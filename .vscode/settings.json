@@ -1,0 +1,10 @@
+{
+  "markdownlint.config": {
+    "MD001": false,
+    "MD025": false,
+    "MD034": false
+  },
+  "cSpell.ignoreWords": [
+    "slidev"
+  ]
+}
